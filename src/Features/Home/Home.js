@@ -45,7 +45,7 @@ class Home extends Component {
               </TouchableOpacity>
               <TouchableOpacity
                 style={[HomeStyle.ButtonContainer, HomeStyle.secondButton]}>
-                <Text style={{color: 'white'}}>Follow</Text>
+                <Text style={{color: 'white'}}>Testing</Text>
               </TouchableOpacity>
             </View>
           </View>
