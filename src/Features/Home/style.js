@@ -48,4 +48,67 @@ export const HomeStyle = StyleSheet.create({
   secondButton: {
     backgroundColor: '#5374FF',
   },
+  namaOrang: {
+    fontSize: 20,
+  },
+  bagianAtas: {
+    flexDirection: 'row',
+  },
+  jobPerson: {
+    fontSize: 13,
+    opacity: 0.5,
+  },
+  bioData: {
+    paddingLeft: 28,
+  },
+  statusData: {
+    flexDirection: 'row',
+    backgroundColor: '#d8ecf2',
+    marginTop: 17,
+    height: 60,
+    width: '83%',
+    borderRadius: 10,
+    justifyContent: 'center',
+    alignItems: 'center',
+  },
+
+  articleStyle: {
+    fontSize: 20,
+    padding: 5,
+  },
+
+  midContainer: {
+    marginTop: 90,
+  },
+
+  workExp: {
+    flexDirection: 'row',
+    padding: 5,
+  },
+  orbs: {
+    padding: 5,
+  },
+  workImg: {
+    width: 180,
+    height: 120,
+    borderRadius: 20,
+  },
+  lowerComponent: {
+    backgroundColor: '#5d7e8f',
+    height: 110,
+    width: 350,
+    marginLeft: 20,
+    borderRadius: 10,
+    justifyContent: 'center',
+    paddingLeft: 30,
+    marginTop: 10,
+    color: 'white',
+  },
+  feat: {
+    backgroundColor: '#506c7a',
+    color: 'white',
+    padding: 6,
+    width: 120,
+    borderRadius: 10,
+  },
 });
